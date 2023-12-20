@@ -16,7 +16,7 @@ Hello there! My name is Duc, and I am a dedicated web developer with a passion f
 
 - 📍⠀I live in Hanoi, Vietnam
 - 🏫⠀I'm currently student at University Of Transport Technology
-- 🌐⠀My website: [\*https://portfolio-7zgjm8wvy-minhduc1003.vercel.app/\*\*](https://portfolio-7zgjm8wvy-minhduc1003.vercel.app/)
+- 🌐⠀My website:<a href="https://portfolio-j8tzpctcd-minhduc1003.vercel.app/">**https://portfolio-j8tzpctcd-minhduc1003.vercel.app/**</a><br>
 - 📧⠀Email: <a href="vuminhduc231003@gmail.com">**vuminhduc231003@gmail.com**</a><br>
 
 ---
